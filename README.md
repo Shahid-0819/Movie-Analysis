@@ -44,5 +44,8 @@ Gross - Total income earned
 Output:Uploaded video on YouTube Channel https://youtu.be/ndiuHGzAlF4
 
 If there was any query regarding code or any technical, non-technical issue reach out at:
+
 Email: shahidjamadar1137@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/shahid-jamadar-1a6974178
 Contact NO: +918530113736
