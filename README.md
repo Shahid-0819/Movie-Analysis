@@ -41,7 +41,7 @@ Gross - Total income earned
 5. Finish
 
 
-Output:Uploaded video on YouTube Channelhttps://youtu.be/ndiuHGzAlF4
+Output:Uploaded video on YouTube Channel https://youtu.be/ndiuHGzAlF4
 
 If there was any query regarding code or any technical, non-technical issue reach out at:
 Email: shahidjamadar1137@gmail.com
