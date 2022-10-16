@@ -41,7 +41,10 @@ Gross - Total income earned
 5. Finish
 
 
-Output:Uploaded video on YouTube Channel https://youtu.be/ndiuHGzAlF4
+Output:
+Uploaded video on YouTube Channel https://youtu.be/ndiuHGzAlF4
+
+LinkedIn Post: https://www.linkedin.com/posts/shahid-jamadar-1a6974178_connections-opportunity-connections-activity-6987310228417482752-9la0?utm_source=share&utm_medium=member_desktop
 
 If there was any query regarding code or any technical, non-technical issue reach out at:
 
